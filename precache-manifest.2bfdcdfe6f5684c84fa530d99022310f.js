@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7773d231921bb921b2b0603914ebc003",
+    "revision": "2f71dd090b77d746339b7ee2d9d33f58",
     "url": "/My-Portfolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/My-Portfolio/static/css/4.0110b6a7.chunk.css"
   },
   {
-    "revision": "fa36efc0b35647a1dc97",
+    "revision": "a47a9fcde7932d4e02b4",
     "url": "/My-Portfolio/static/css/main.46514163.chunk.css"
   },
   {
@@ -32,16 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/My-Portfolio/static/js/4.3855598f.chunk.js"
   },
   {
-    "revision": "fa36efc0b35647a1dc97",
-    "url": "/My-Portfolio/static/js/main.c217bd5b.chunk.js"
+    "revision": "a47a9fcde7932d4e02b4",
+    "url": "/My-Portfolio/static/js/main.a70c8751.chunk.js"
   },
   {
     "revision": "e1c7e62aaf6bd94acc0e",
     "url": "/My-Portfolio/static/js/runtime-main.3035f897.js"
   },
   {
-    "revision": "403258eb04d8d772ea536a296361cc4c",
-    "url": "/My-Portfolio/static/media/AWS-logo.403258eb.jpg"
+    "revision": "1ee8a069415cff374846e0a6e90c6f82",
+    "url": "/My-Portfolio/static/media/AWS-logo.1ee8a069.jpg"
   },
   {
     "revision": "a3752c4bf72688b3db38d0911cf75f61",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/My-Portfolio/static/media/SFS.b68c2c34.jpg"
   },
   {
-    "revision": "811293b95616a3b9e43b89cae1869e34",
-    "url": "/My-Portfolio/static/media/coding-ninjas.811293b9.jpg"
+    "revision": "e427f006b749458c57091aeeb2bcc3be",
+    "url": "/My-Portfolio/static/media/coding-ninjas.e427f006.jpg"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
@@ -72,24 +72,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/My-Portfolio/static/media/health-app-logo.537c3363.jpg"
   },
   {
-    "revision": "5abdd53ee501233901ca7931f67e37c3",
-    "url": "/My-Portfolio/static/media/innefu.5abdd53e.jpg"
+    "revision": "ac1bf83b83b34c6f20132fc3bd49c1d0",
+    "url": "/My-Portfolio/static/media/innefu.ac1bf83b.jpg"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/My-Portfolio/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "214fd8bb68adeda9d7cf266132438842",
-    "url": "/My-Portfolio/static/media/msit.214fd8bb.png"
+    "revision": "fc7633f9616977d14614d1ab8899cb74",
+    "url": "/My-Portfolio/static/media/msit.fc7633f9.png"
   },
   {
     "revision": "1373bede58827a68d504073b60d092ae",
     "url": "/My-Portfolio/static/media/nyu123.1373bede.jpg"
   },
   {
-    "revision": "781d08f72d5f77177d9b9b9137aee940",
-    "url": "/My-Portfolio/static/media/nyuit.781d08f7.jpg"
+    "revision": "5e98e21a543a6bdc657a5890f2f848d5",
+    "url": "/My-Portfolio/static/media/nyuit.5e98e21a.jpg"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
