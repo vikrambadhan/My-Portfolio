@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.46514163.chunk.css",
-    "main.js": "/My-Portfolio/static/js/main.3e047603.chunk.js",
-    "main.js.map": "/My-Portfolio/static/js/main.3e047603.chunk.js.map",
+    "main.js": "/My-Portfolio/static/js/main.8697db9e.chunk.js",
+    "main.js.map": "/My-Portfolio/static/js/main.8697db9e.chunk.js.map",
     "runtime-main.js": "/My-Portfolio/static/js/runtime-main.3035f897.js",
     "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.3035f897.js.map",
     "static/js/2.6e45ac63.chunk.js": "/My-Portfolio/static/js/2.6e45ac63.chunk.js",
@@ -14,24 +14,24 @@
     "static/js/4.3855598f.chunk.js": "/My-Portfolio/static/js/4.3855598f.chunk.js",
     "static/js/4.3855598f.chunk.js.map": "/My-Portfolio/static/js/4.3855598f.chunk.js.map",
     "index.html": "/My-Portfolio/index.html",
-    "precache-manifest.cd34b5a2ec44aee4378a7554cfc7c69a.js": "/My-Portfolio/precache-manifest.cd34b5a2ec44aee4378a7554cfc7c69a.js",
+    "precache-manifest.9dd6399a9484275edb77aeb51e0db9a3.js": "/My-Portfolio/precache-manifest.9dd6399a9484275edb77aeb51e0db9a3.js",
     "service-worker.js": "/My-Portfolio/service-worker.js",
     "static/css/3.ed673b97.chunk.css.map": "/My-Portfolio/static/css/3.ed673b97.chunk.css.map",
     "static/css/4.0110b6a7.chunk.css.map": "/My-Portfolio/static/css/4.0110b6a7.chunk.css.map",
     "static/css/main.46514163.chunk.css.map": "/My-Portfolio/static/css/main.46514163.chunk.css.map",
     "static/js/2.6e45ac63.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.6e45ac63.chunk.js.LICENSE.txt",
-    "static/media/AWS-logo.jpg": "/My-Portfolio/static/media/AWS-logo.403258eb.jpg",
+    "static/media/AWS-logo.jpg": "/My-Portfolio/static/media/AWS-logo.1ee8a069.jpg",
     "static/media/index.css": "/My-Portfolio/static/media/Montserrat-Regular.847627bf.ttf",
-    "static/media/GGSIPU.jpg": "/My-Portfolio/static/media/GGSIPU.bfbed2e3.jpg",
+    "static/media/GGSIPU.jpg": "/My-Portfolio/static/media/GGSIPU.dab9e3e2.jpg",
     "static/media/SFS.jpg": "/My-Portfolio/static/media/SFS.b68c2c34.jpg",
-    "static/media/coding-ninjas.jpg": "/My-Portfolio/static/media/coding-ninjas.811293b9.jpg",
+    "static/media/coding-ninjas.jpg": "/My-Portfolio/static/media/coding-ninjas.e427f006.jpg",
     "static/media/contactMailDark.svg": "/My-Portfolio/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/My-Portfolio/static/media/developerActivity.59389695.svg",
     "static/media/health-app-logo.jpg": "/My-Portfolio/static/media/health-app-logo.537c3363.jpg",
-    "static/media/innefu.jpg": "/My-Portfolio/static/media/innefu.5abdd53e.jpg",
+    "static/media/innefu.jpg": "/My-Portfolio/static/media/innefu.ac1bf83b.jpg",
     "static/media/manOnTable.svg": "/My-Portfolio/static/media/manOnTable.52be3144.svg",
     "static/media/nyu123.jpg": "/My-Portfolio/static/media/nyu123.1373bede.jpg",
-    "static/media/nyuit.jpg": "/My-Portfolio/static/media/nyuit.781d08f7.jpg",
+    "static/media/nyuit.jpg": "/My-Portfolio/static/media/nyuit.5e98e21a.jpg",
     "static/media/skill.svg": "/My-Portfolio/static/media/skill.34409398.svg",
     "static/media/smart-photo-album.jpg": "/My-Portfolio/static/media/smart-photo-album.4dc9ab34.jpg",
     "static/media/TalkCard.scss": "/My-Portfolio/static/media/talksCardBack.13780cdd.svg"
@@ -40,6 +40,6 @@
     "static/js/runtime-main.3035f897.js",
     "static/js/2.6e45ac63.chunk.js",
     "static/css/main.46514163.chunk.css",
-    "static/js/main.3e047603.chunk.js"
+    "static/js/main.8697db9e.chunk.js"
   ]
 }
