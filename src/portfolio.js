@@ -151,8 +151,8 @@ const educationInfo = {
     },
     {
       schoolName: "Guru Gobind Singh Indraprastha university, New Delhi, India",
-      logo: require("./assets/images/msit.png"),
-      subHeader: "Bachelor of Science in Information Technology",
+      logo: require("./assets/images/GGSIPU.jpg"),
+      subHeader: "Bachelor of Technology in Information Technology",
       duration: "August 2014 - May 2018",
       desc: "I pursued my Bachelor’s degree in B.Tech (Information Technology) from Maharaja Surajmal Institute of Technology affiliated to GGSIPU (A leading public university in India).",
       descBullets: [
@@ -189,7 +189,7 @@ const techStack = {
     },
     {
       Stack: "Frontend Development",
-      progressPercentage: "70%"
+      progressPercentage: "80%"
     },
     {
       Stack: "Cloud Computing Skills(AWS)",
