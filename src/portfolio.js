@@ -164,7 +164,7 @@ const educationInfo = {
       schoolName: "St Francis De sales School, New Delhi, India",
       logo: require("./assets/images/SFS.jpg"),
       subHeader: "1st - 12th Grade",
-      duration: "May 2001 - May 2012",
+      duration: "May 2001 - May 2013",
       desc: "Completed my schooling from St. Francis De Sales School, Janakpuri, New Delhi. I was part of the same institution for 12 years. Being one of finest convent schools in New Delhi, we had a strong emphasis on english speaking and participation in co-curricular activities.",
       descBullets: [
         "Was part of School Football Team. Participated in various tournaments throughout high school.",
