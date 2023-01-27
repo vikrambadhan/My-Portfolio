@@ -16,7 +16,7 @@ const greeting = {
   subTitle: emoji(
    // "This portfolio is currently under development"
     
-   "I am an aspiring Software Developer 🚀, with a go-get-'em attitude, remarkable time management skills and strong ability to learn📝. A variety of personal and professional experiences have shaped me into a critical thinker, creative problem solver, and a compelling leader uniquely positioned to add value to any team of which I am a part. Currently I am a graduate student at New York University ⚡ wherein I am testing and honing my abilities so as to bring out a better version of myself. 🏆"
+   "I am an aspiring Software Developer 🚀, with a go-get-'em attitude, remarkable time management skills and strong ability to learn📝. A variety of personal and professional experiences have shaped me into a critical thinker, creative problem solver, and a compelling leader uniquely positioned to add value to any team of which I am a part of. Currently I am a graduate student at New York University ⚡ wherein I am testing and honing my abilities so as to bring out a better version of myself. 🏆"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1vicWhZax_KWlXI9FiLQRBS9ViFzr8Giu/view?usp=sharing",
